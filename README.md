@@ -19,7 +19,7 @@ Skills: Verilog, C language, Python, Git, LATEX, SQL, Matlab, signal/Image proce
 
 You can reach out to me through the following channels:
 
-- Email: [fasih0001@gmail.com](fasih0001@gmail.com)
-- Twitter: [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/faseihulhassan?t=eBxHkbmuCu8tTsadUYl9ig&s=09)
-- LinkedIn: [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/syed-m-fasih-ul-hassan-00426117b/)
-- Website: [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://fasih0001.github.io/portfolio.github.io/)
+ [fasih0001@gmail.com](fasih0001@gmail.com)
+ [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/faseihulhassan?t=eBxHkbmuCu8tTsadUYl9ig&s=09)
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/syed-m-fasih-ul-hassan-00426117b/)
+ [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://fasih0001.github.io/portfolio.github.io/)
